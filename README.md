@@ -2,7 +2,9 @@
 
 ## Módulo 1: Fundamentos ReactJS
 
-# React + Vite
+Primeiro projeto de introdução ao ReactJS.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
